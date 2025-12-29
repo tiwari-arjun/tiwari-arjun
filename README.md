@@ -1,4 +1,11 @@
-<h3 align="center">HI I'm ARJUN TIWARI | STUDENT | FRONT END DEVELOPER </h3>
+<h1 align="center">Hi 👋, I'm Arjun Tiwari</h1>
+<h3 align="center">A passionate front-end web developer and a graphic designer</h3>
+
+- 🌱 I'm currently learning Full-Stack Development **React, HTML5, CSS3**
+
+- 👨‍💻 All of my projects are available at [https://github.com/tiwari-arjun?tab=repositories](https://github.com/tiwari-arjun?tab=repositories)
+
+- 📫 How to reach me **tiwariarjun581@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
