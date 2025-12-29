@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">HI I'm ARJUN TIWARI | STUDENT | FRONT END DEVELOPER </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
